@@ -88,3 +88,10 @@ Tensorboard does not by default show all logged images. To specify how many imag
 ```console
 tensorboard --logdir <output directory> --samples_per_plugin images=<number of images to show (e.g. 100000)>
 ```
+
+## License
+This work is distributed under BSD Clear license. See LICENSE file.
+
+## Acknowledgment 
+
+This work was supported by the Christian Doppler Laboratory for Semantic 3D Computer Vision, funded in part by Qualcomm Inc.
